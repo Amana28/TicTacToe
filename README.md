@@ -1,4 +1,4 @@
-# Amana_TicTacToe
+# TicTacToe
 
 Simple TicTacToe App for Mobile App Dev Class 
 
